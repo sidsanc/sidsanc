@@ -31,7 +31,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-sancheti )
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sanchetisiddhantk@gmail.com)
   
-  ### 🌍 Find Me on
+  ### 🌍 Find Me on:
 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@sidsanc4998) 
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm?si=xeSqSuLwQwSytXVlfnaNRA&utm_source=copy-link)
@@ -41,7 +41,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center">
 
-  ### 🛠 Tech Stack
+  ### 🛠 Tech Stack:
 
 [![Python](https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
