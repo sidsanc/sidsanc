@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  [![Resume](https://img.shields.io/badge/-Resume-informational?style=flat&logoColor=F7DF1E)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
+  [![Resume](https://img.shields.io/badge/Resume-View%20Resume-orange?style=flat)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
  
 </div>
   
