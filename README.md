@@ -2,7 +2,9 @@
 
   ## 👋 Hi, I'm Siddhant </div>
 
-<div align = 'center'>A curious mind passionate about data-driven problem-solving! 🤖 As a software engineering graduate from San Jose State University, I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
+<div align = 'center'>
+  
+  A curious mind passionate about data-driven problem-solving! 🤖 As a software engineering graduate from San Jose State University, I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
 
 </div>
 
