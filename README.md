@@ -16,13 +16,18 @@
   ### 🔭 Check out my recent projects:
 
 🍽️ <ins>Your Next Meal</ins> - A donor-receiver match platform developed using Django, ReactJS, and MongoDB 🍴. Achieved 95% uptime and 4% data loss through efficient deployment with Github 🐙 and Jenkins 🔧.
+  
+
 
 📰 <ins> [Fake News Detection](https://github.com/soumyendra98/Metamorphs) </ins> - A research-based project using kNN 🤝, BERT 📊, Scikit-learn 📈, and TensorFlow 🤖 to construct a system that detects fake news based on the news source and headline with 92% accuracy on the Fake News Challenge dataset and 91% accuracy on the LIAR-PLUS dataset.
+  
+ 🌍 <ins>Wildlife Conservation Chatbot</ins>🦁 - The Wildlife Conservation Chatbot is a project that aims to raise awareness about wildlife conservation and provide users with valuable information about conservation policies, rates of animal species detected in their uploaded images, and more. The chatbot utilizes the OpenAI API for natural language processing and Gradio for creating an intuitive user interface.
 
 🚗 <ins>Vehicle Detection and Tracking</ins> - Fine-tuned the YOLO and implemented NMS to filter duplicate detections, achieving a detection accuracy of 92% 🚘. Leveraged OpenCV 📷 for image preprocessing and NumPy 🧮 for efficient data manipulation, resulting in a real-time vehicle detection rate of 10 frames per second 🚦.
 
 🎥 <ins>AI-based Movie Analysis</ins> - Developed a Deep Learning application to predict movie genre and estimate the percentage of violence in an action movie based on script analysis and motion detection techniques 🎬. Achieved a 93.7% accuracy in predicting movie genre and mIOU score of 0.78 in estimating the percentage of violence.
   </div>
+  
 
 <div align="center">
   
@@ -37,9 +42,9 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 <div align="center"> 
  
   ### 📫 Contact me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-sancheti )
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sanchetisiddhantk@gmail.com)
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-sancheti )
+[![Email](https://img.shields.io/badge/-Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:sanchetisiddhantk@gmail.com)
   
   ### 🌍 Find Me on:
 
