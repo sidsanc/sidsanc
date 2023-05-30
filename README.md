@@ -47,7 +47,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
   ### 🛠 Tech Stack:
 
-[![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/start/)
  
