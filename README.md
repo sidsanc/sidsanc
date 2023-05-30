@@ -6,7 +6,8 @@
 
 
 <div align="center">
-  🔭 Check out my recent projects:
+  
+  ### 🔭 Check out my recent projects:
 
 🍽️ <ins>Your Next Meal</ins> - A donor-receiver match platform developed using Django, ReactJS, and MongoDB 🍴. Achieved 95% uptime and 4% data loss through efficient deployment with Github 🐙 and Jenkins 🔧.
 
@@ -18,7 +19,8 @@
   </div>
 
 <div align="center">
-  📚 Education: 
+  
+  ### 📚 Education: 
 
 Master of Science, Software Engineering (Data Science) from San Jose State University 🎓. 
 
@@ -36,6 +38,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@sidsanc4998) 
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm?si=xeSqSuLwQwSytXVlfnaNRA&utm_source=copy-link)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/)
 
   </div>
 
@@ -77,8 +80,8 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
+[![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white)](https://support.apple.com/macos)
 
 </div>
 
