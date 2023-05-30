@@ -26,6 +26,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 </div>
 
 <div align="center"> 
+ 
   ### 📫 Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-sancheti )
