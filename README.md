@@ -4,7 +4,11 @@
 
 <div align = 'center'>A curious mind passionate about data-driven problem-solving! 🤖 As a software engineering graduate from San Jose State University, I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.</div>
 
-
+<div align="center">
+  
+  ![[](https://img.shields.io/badge/-Resume-red?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
+  </div>
+  
 <div align="center">
   
   ### 🔭 Check out my recent projects:
@@ -25,6 +29,7 @@
 Master of Science, Software Engineering (Data Science) from San Jose State University 🎓. 
 
 Bachelor’s in Engineering from Maharashtra Institute of Technology.
+ 
 </div>
 
 <div align="center"> 
@@ -38,7 +43,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@sidsanc4998) 
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm?si=xeSqSuLwQwSytXVlfnaNRA&utm_source=copy-link)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/Tools-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/)
 
   </div>
 
@@ -74,8 +79,8 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center">
 
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/Style-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </div>
 
