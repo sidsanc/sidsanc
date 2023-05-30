@@ -4,9 +4,10 @@
 
 <div align = 'center'>A curious mind passionate about data-driven problem-solving! 🤖 As a software engineering graduate from San Jose State University, I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.</div>
 
+
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/-Resume-black?style=flat&color=white)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/-Resume-informational?style=flat&logoColor=purple)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
  
 </div>
   
