@@ -30,6 +30,8 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-sancheti )
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sanchetisiddhantk@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sidsanc4998)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm?si=xeSqSuLwQwSytXVlfnaNRA&utm_source=copy-link)
 
   </div>
 
