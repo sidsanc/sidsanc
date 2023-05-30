@@ -20,9 +20,9 @@
 <div align="center">
   📚 Education: 
 
-- Master of Science, Software Engineering (Data Science) from San Jose State University 🎓. 
+Master of Science, Software Engineering (Data Science) from San Jose State University 🎓. 
 
-- Bachelor’s in Engineering from Maharashtra Institute of Technology.
+Bachelor’s in Engineering from Maharashtra Institute of Technology.
 </div>
 
 <div align="center"> 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-[![HTML(https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
