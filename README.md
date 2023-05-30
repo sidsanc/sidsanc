@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![[Resume](https://img.shields.io/badge/-Resume-black?style=flat&color=white)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
+![[Resume](https://img.shields.io/badge/-Resume-white?style=flat&color=white)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
  
 </div>
   
