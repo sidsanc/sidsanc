@@ -19,7 +19,7 @@
   
   ### 🔭 Check out my recent projects:
 
-🍽️ <ins>Your Next Meal</ins> - A donor-receiver match platform developed using Django, ReactJS, and MongoDB 🍴. Achieved 95% uptime and 4% data loss through efficient deployment with Github 🐙 and Jenkins 🔧.
+🍽️ <ins>[Your Next Meal](https://github.com/sidsanc/yournextmeal)</ins> - A donor-receiver match platform developed using Django, ReactJS, and MongoDB 🍴. Achieved 95% uptime and 4% data loss through efficient deployment with Github 🐙 and Jenkins 🔧.
   
 
 📰 <ins>[Fake News Detection](https://github.com/soumyendra98/Metamorphs) </ins> - A research-based project using kNN 🤝, BERT 📊, Scikit-learn 📈, and TensorFlow 🤖 to construct a system that detects fake news based on the news source and headline with 92% accuracy on the Fake News Challenge dataset and 91% accuracy on the LIAR-PLUS dataset.
