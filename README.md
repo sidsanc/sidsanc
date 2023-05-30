@@ -47,7 +47,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
   ### 🛠 Tech Stack:
 
-[![Python](https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/-Code-Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/start/)
  
@@ -80,7 +80,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center">
   
-[![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
 [![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white)](https://support.apple.com/macos)
 
 </div>
@@ -88,7 +88,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 <div align="center">
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Eclipse](https://img.shields.io/badge/-Eclipse-darkblue?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
 </div>
 
