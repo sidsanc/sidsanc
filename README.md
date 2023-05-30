@@ -44,6 +44,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 </div>
 
 <div align="center">
+![image](https://github.com/sidsanc/sidsanc/assets/47080427/e1570730-c850-4325-b27c-edb8a933d89e)
 
 [![JavaScript]([https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white](https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074))]
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
