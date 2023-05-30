@@ -6,8 +6,8 @@
 
 
 <div align="center">
-  
-  [![Resume](https://img.shields.io/badge/-Resume-informational?style=flat&logoColor=purple)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
+
+  [![Resume](https://img.shields.io/badge/-Resume-informational?style=flat&logoColor=F7DF1E)](https://drive.google.com/file/d/1Y49sQuN71Jm_agrYj4UlUn4cVrZV3dmu/view?usp=drive_link)
  
 </div>
   
@@ -89,7 +89,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 <div align="center">
   
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
-[![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white)](https://support.apple.com/macos)
+[![MacOS](https://img.shields.io/badge/MAC%20OS-000000?style=flat&logo=apple&logoColor=white)](https://support.apple.com/macos)
 
 </div>
 
