@@ -21,7 +21,7 @@
 
 📰 <ins> [Fake News Detection](https://github.com/soumyendra98/Metamorphs) </ins> - A research-based project using kNN 🤝, BERT 📊, Scikit-learn 📈, and TensorFlow 🤖 to construct a system that detects fake news based on the news source and headline with 92% accuracy on the Fake News Challenge dataset and 91% accuracy on the LIAR-PLUS dataset.
   
- 🌍 <ins>Wildlife Conservation Chatbot</ins>🦁 - The Wildlife Conservation Chatbot is a project that aims to raise awareness about wildlife conservation and provide users with valuable information about conservation policies, rates of animal species detected in their uploaded images, and more. The chatbot utilizes the OpenAI API for natural language processing and Gradio for creating an intuitive user interface.
+ 🌍 <ins>[Wildlife Conservation Chatbot](https://github.com/soumyendra98/KnowYourWildlife) </ins>🦁 - The Wildlife Conservation Chatbot is a project that aims to raise awareness about wildlife conservation and provide users with valuable information about conservation policies, rates of animal species detected in their uploaded images, and more. The chatbot utilizes the OpenAI API for natural language processing and Gradio for creating an intuitive user interface.
 
 🚗 <ins>Vehicle Detection and Tracking</ins> - Fine-tuned the YOLO and implemented NMS to filter duplicate detections, achieving a detection accuracy of 92% 🚘. Leveraged OpenCV 📷 for image preprocessing and NumPy 🧮 for efficient data manipulation, resulting in a real-time vehicle detection rate of 10 frames per second 🚦.
 
