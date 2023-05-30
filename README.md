@@ -45,7 +45,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center">
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript]([https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white](https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074)]
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
@@ -55,7 +55,6 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
 </div>
 
