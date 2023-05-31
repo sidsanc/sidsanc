@@ -1,0 +1,38 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+section h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+section ul {
+    margin-left: 20px;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+}
