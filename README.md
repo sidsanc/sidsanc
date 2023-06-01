@@ -45,7 +45,8 @@
 
 <h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/sidsanc4998"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=sidsanc4998&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
 </br>
-<a href="https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm"><img src="https://now-play.vercel.app/api/generate?uid=3373fa7b-55b3-4648-b5f1-257f601349da" alt="Now playing on Spotify" ></a>
+<!-- <a href="https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm"><img src="https://now-play.vercel.app/api/generate?uid=3373fa7b-55b3-4648-b5f1-257f601349da" alt="Now playing on Spotify" ></a> -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&cover_image=true&theme=novatorem&show_offline=false&background_color=706b6b&interchange=false&bar_color=901a99&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&redirect=true)
 
 <details>
     <summary>Recently played</summary>
