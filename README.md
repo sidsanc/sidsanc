@@ -20,6 +20,21 @@
  
 </div>
 
+<h2>ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sidsanc/sidsanc?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<!-- <img alt="GitHub forks" src="https://img.shields.io/github/forks/sidsanc/sidsanc?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sidsanc/sidsanc?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px"> -->
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/sidsanc/sidsanc?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+  
+<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt ="coffee" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-crayons.svg" alt ="crayons" height="22px"></a>  
+
+</div>
+
 <div align='center'>
   
  ### 📝 Latest Blog Posts
