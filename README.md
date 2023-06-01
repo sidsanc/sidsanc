@@ -1,8 +1,12 @@
-<div align='center'>
+
+<div id="about-me" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Suriya+Tasmim+Disha;It's+nice+to+meet+you!;I+am+a+full+stack+web+and+app+developer" alt="Typing SVG" /></a>
+</div>
+<!-- <div align='center'>
 
   ## 👋 Hi, I'm Siddhant </div>
 
-<div align = 'center'>
+<div align = 'center'> -->
   
   A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
 
@@ -73,18 +77,18 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center">
   
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)](https://react.dev/)
 
-[![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Node.js](https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
 </div>
 
 <div align="center">
   
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/Code-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </div>
@@ -107,8 +111,10 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center">
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Google Colab](https://img.shields.io/badge/IDE-Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](https://colab.research.google.com/)  
+[![Eclipse](https://img.shields.io/badge/IDE-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+  
 
 </div>
 
