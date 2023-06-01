@@ -48,7 +48,7 @@
 <!-- <a href="https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm"><img src="https://now-play.vercel.app/api/generate?uid=3373fa7b-55b3-4648-b5f1-257f601349da" alt="Now playing on Spotify" ></a> -->
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&cover_image=true&theme=novatorem&show_offline=false&background_color=706b6b&interchange=false&bar_color=901a99&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&cover_image=true&theme=novatorem&show_offline=false&background_color=706b6b&interchange=false&bar_color=901a99&bar_color_cover=False)](https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&redirect=true)
 
 <details>
     <summary>Recently played</summary>
