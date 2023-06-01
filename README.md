@@ -61,7 +61,8 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-sancheti)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:sanchetisiddhantk@gmail.com) -->
   
-  🔗 &nbsp;**Connect with me**
+  ### 🔗 Connect with me
+  
 <p>
 <a href="https://linkedin.com/in/siddhant-sancheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhantsancheti" height="30" width="40" /></a>
 <a href="https://instagram.com/sid_sanc4998_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhantsancheti" height="30" width="40" /></a>
@@ -72,7 +73,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@sidsanc4998) 
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm?si=xeSqSuLwQwSytXVlfnaNRA&utm_source=copy-link)
-[![GitHub](https://img.shields.io/badge/Tools-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/Tools-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/sidsanc)
 
   </div>
 
