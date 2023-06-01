@@ -19,6 +19,10 @@
   [![Website](https://img.shields.io/badge/Website-View%20Website-blue?style=flat)](https://siddhantsancheti.netlify.app)
  
 </div>
+
+<div align='center'>
+  ## 📝 Latest Blog Posts
+  </div>
   
 <div align="center">
   
