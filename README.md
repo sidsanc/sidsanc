@@ -21,7 +21,9 @@
 </div>
 
 <div align='center'>
-  ## 📝 Latest Blog Posts
+  
+  ### 📝 Latest Blog Posts
+  
   </div>
   
 <div align="center">
