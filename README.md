@@ -158,9 +158,12 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
  </p>
   <h3>💻Systems</h3>
   <p>
-    [![Linux](https://img.shields.io/badge/System-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
+    <a href='#'><img alt="Linux" src="https://img.shields.io/badge/System-Linux-FCC624?style=flat&logo=linux&logoColor=white"></a>
+    <a href='#'><img alt="MocOS" src="https://img.shields.io/badge/System-MAC%20OS-000000?style=flat&logo=apple&logoColor=white"></a>
+    <a href='#'><img alt="Windows" src="https://img.shields.io/badge/System-Windows-blue?style=flat&logo=windows&logoColor=blue"></a>
+<!--     [![Linux](https://img.shields.io/badge/System-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
     [![MacOS](https://img.shields.io/badge/System-MAC%20OS-000000?style=flat&logo=apple&logoColor=white)](https://support.apple.com/macos)
-    [![Windows](https://img.shields.io/badge/System-Windows-blue?style=flat&logo=windows&logoColor=blue)](https://www.microsoft.com/en-us/windows/windows-11)
+    [![Windows](https://img.shields.io/badge/System-Windows-blue?style=flat&logo=windows&logoColor=blue)](https://www.microsoft.com/en-us/windows/windows-11) -->
   </p>
 
 </div>
