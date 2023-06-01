@@ -1,6 +1,7 @@
 
 <div id="about-me" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=500&color=288932&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Siddhant+Sancheti;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=500&color=11d4be&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Siddhant+Sancheti;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
+<!--   green color:288932 -->
 </div>
 <!-- <div align='center'>
 
