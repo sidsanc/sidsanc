@@ -22,8 +22,9 @@
 
 <div align='center'>
   
-  ### 📝 Latest Blog Posts
-  
+ ### 📝 Latest Blog Posts
+ <!-- BLOG-POST-LIST:START -->
+ <!-- BLOG-POST-LIST:END -->
   </div>
   
 <div align="center">
@@ -55,10 +56,17 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center"> 
  
-  ### 📫 Contact me:
+<!--   ### 📫 Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-sancheti)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:sanchetisiddhantk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:sanchetisiddhantk@gmail.com) -->
+  
+  🔗 &nbsp;**Connect with me**
+<p>
+<a href="https://linkedin.com/in/siddhant-sancheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhantsancheti" height="30" width="40" /></a>
+<a href="https://instagram.com/sid_sanc4998_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhantsancheti" height="30" width="40" /></a>
+<a href="mailto:sanchetisiddhantk@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="siddhantsancheti" height="30" width="40" /></a>
+</p>
   
   ### 🌍 Find Me on:
 
