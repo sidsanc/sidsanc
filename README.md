@@ -42,7 +42,16 @@
 
 🎥 <ins>AI-based Movie Analysis</ins> - Developed a Deep Learning application to predict movie genre and estimate the percentage of violence in an action movie based on script analysis and motion detection techniques 🎬. Achieved a 93.7% accuracy in predicting movie genre and mIOU score of 0.78 in estimating the percentage of violence.
   </div>
-  
+
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/sidsanc4998"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=sidsanc4998&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+</br>
+<a href="https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm"><img src="https://now-play.vercel.app/api/generate?uid=3373fa7b-55b3-4648-b5f1-257f601349da" alt="Now playing on Spotify" ></a>
+
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=315bfidfyj47fcwbfpibxxu2nkfm&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
+
 
 <div align="center">
   
