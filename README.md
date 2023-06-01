@@ -98,8 +98,10 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 
 <div align="center">
   
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
-[![MacOS](https://img.shields.io/badge/MAC%20OS-000000?style=flat&logo=apple&logoColor=white)](https://support.apple.com/macos)
+[![Linux](https://img.shields.io/badge/System-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
+[![MacOS](https://img.shields.io/badge/System-MAC%20OS-000000?style=flat&logo=apple&logoColor=white)](https://support.apple.com/macos)
+[![Windows](https://img.shields.io/badge/System-Windows-FCC624?style=flat&logo=windows&logoColor=blue)](https://www.microsoft.com/en-us/windows/windows-11)
+
 
 </div>
 
