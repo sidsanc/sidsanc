@@ -76,9 +76,9 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
   ### 🔗 Connect with me
   
 <p>
-<a href="https://linkedin.com/in/siddhant-sancheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhantsancheti" height="20" width="30" /></a>
-<a href="https://instagram.com/sid_sanc4998_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhantsancheti" height="20" width="30" /></a>
-<a href="mailto:sanchetisiddhantk@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="siddhantsancheti" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/siddhant-sancheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhantsancheti" height="25" width="35" /></a>
+<a href="https://instagram.com/sid_sanc4998_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhantsancheti" height="25" width="35" /></a>
+<a href="mailto:sanchetisiddhantk@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="siddhantsancheti" height="25" width="35" /></a>
 </p>
   
   ### 🌍 Find Me on:
