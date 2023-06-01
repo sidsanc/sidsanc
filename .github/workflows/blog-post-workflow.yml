@@ -11,8 +11,9 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v2
+       - uses: gautamkrishnar/blog-post-workflow@master
          with:
            max_post_count: "4"
-           feed_list: "https://medium.com/@sidsanc4998/trainingflow-and-knowledge-retrieval-for-llms-83af9cf9db6e, https://medium.com/@sidsanc4998/prompt-night-a-prompt-engineering-fun-dcd72e67ba6a"
+           feed_list: "https://medium.com/feed/@sidsanc4998"
            
            
