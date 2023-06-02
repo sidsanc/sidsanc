@@ -5,9 +5,17 @@
 </div>
 
  <div align='center'>
- 
-A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
- 
+  <link href='https://fonts.googleapis.com/css?family=DotGothic16' rel='stylesheet'>
+   <style>
+     body {
+       font-family: 'DotGothic16', sans-serif;
+       font-size: 22px;
+     }
+   </style>
+ </head>
+ <body>
+      A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
+ </body>
 </div>
 
 
