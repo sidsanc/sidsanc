@@ -3,11 +3,21 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&pause=500&color=11d4be&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Siddhant+Sancheti;It's+nice+to+meet+you!" alt="Typing SVG" /></a>
 <!--   green color:288932 -->
 </div>
+
  <div align='center'>
 
-<!--   ## 👋 Hi, I'm Siddhant </div> -->
-A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
+ <style>
+.custom-font {
+  font-family: 'DotGothic16', sans-serif;
+  color: #11d4be;
+}
+</style>
 
+```markdown
+<blockquote class="custom-font">
+A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace, and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
+</blockquote>
+<!-- A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches. -->
 </div>
 
 <div align="center">
