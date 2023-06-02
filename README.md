@@ -6,17 +6,18 @@
 
  <div align='center'>
 
- <style>
-.custom-font {
-  font-family: 'DotGothic16', sans-serif;
-  color: #11d4be;
-}
-</style>
+  <style>
+ .custom-font {
+   font-family: 'DotGothic16', sans-serif;
+   color: #11d4be;
+ }
+ </style>
 
-```markdown
-<blockquote class="custom-font">
-A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace, and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
-</blockquote>
+  ```markdown
+  <blockquote class="custom-font">
+  A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace, and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
+  </blockquote>
+ ```
 <!-- A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches. -->
 </div>
 
