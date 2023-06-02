@@ -65,7 +65,8 @@
 
 <details>
     <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played"></a>
+    <a href="https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm"><img src="https://spotify-recently-played-readme.vercel.app/api?user=315bfidfyj47fcwbfpibxxu2nkfm&unique=true&count=10" alt="Spotify recently played"></a>
+
 
 </details>
 
