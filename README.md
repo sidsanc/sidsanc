@@ -18,6 +18,11 @@
  
 </div>
 
+ <!--RECENT_ACTIVITY:start-->
+ 
+<!--RECENT_ACTIVITY:end-->
+
+
 <h2>ℹ️ Project info</h2>
 <div>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sidsanc/sidsanc?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
