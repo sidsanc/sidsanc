@@ -163,7 +163,7 @@ Bachelor’s in Engineering from Maharashtra Institute of Technology.
 ## 🛠️ My Favorite Tools
  <h3>👨‍💻 Programming Languages</h3>
  <p>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-yellow.svg?style=flat-square&logo=python&logoColor=14354C"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=yellow"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4.svg?style=flat-square&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"></a>
