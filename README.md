@@ -5,8 +5,11 @@
 </div>
 
  <div align='center'>
+ 
 A curious mind passionate about data-driven problem-solving! 🤖 I specialize in developing cutting-edge AI and ML-based projects. I have expertise in NLP techniques 📖, Computer Vision 👀, AWS ☁️, OpenAI APIs, HuggingFace and Intuitive UI. I'm passionate about solving real-world problems using data-driven approaches.
+ 
 </div>
+
 
 <div align="center">
 
