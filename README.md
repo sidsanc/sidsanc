@@ -19,8 +19,7 @@
 </div>
 
  <!--RECENT_ACTIVITY:start-->
- 
-<!--RECENT_ACTIVITY:end-->
+ <!--RECENT_ACTIVITY:end-->
 
 
 <h2>ℹ️ Project info</h2>
