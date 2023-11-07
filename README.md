@@ -54,7 +54,7 @@
 🍽️ <ins>[Your Next Meal](https://github.com/sidsanc/yournextmeal)</ins> - A donor-receiver match platform developed using Django, ReactJS, and MongoDB 🍴. Achieved 95% uptime and 4% data loss through efficient deployment with Github 🐙 and Jenkins 🔧.
   
 
-📰 <ins>[Fake News Detection](https://github.com/soumyendra98/Metamorphs) </ins> - A research-based project using kNN 🤝, BERT 📊, Scikit-learn 📈, and TensorFlow 🤖 to construct a system that detects fake news based on the news source and headline with 92% accuracy on the Fake News Challenge dataset and 91% accuracy on the LIAR-PLUS dataset.
+📰 <ins>[Fake News Detection](https://github.com/sidsanc/Metamorphs) </ins> - A research-based project using kNN 🤝, BERT 📊, Scikit-learn 📈, and TensorFlow 🤖 to construct a system that detects fake news based on the news source and headline with 92% accuracy on the Fake News Challenge dataset and 91% accuracy on the LIAR-PLUS dataset.
   
  🌍 <ins>[Wildlife Conservation Chatbot](https://github.com/sidsanc/KnowYourWildLife) </ins>🦁 - The Wildlife Conservation Chatbot is a project that aims to raise awareness about wildlife conservation and provide users with valuable information about conservation policies, rates of animal species detected in their uploaded images, and more. The chatbot utilizes the OpenAI API for natural language processing and Gradio for creating an intuitive user interface.
 
