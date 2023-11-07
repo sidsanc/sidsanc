@@ -51,7 +51,7 @@
   
   ### 🔭 Check out my recent projects:
 
-  <ins>[TechnoSapiens FitClub]()</ins> - • Designed a responsive platform using React.js (frontend) and Node.js with Express.js (backend), ensuring seamless handling of concurrent user requests.
+  <ins>[TechnoSapiens FitClub](https://github.com/sidsanc/Technosapiens-FitClub)</ins> - • Designed a responsive platform using React.js (frontend) and Node.js with Express.js (backend), ensuring seamless handling of concurrent user requests.
 • Prioritized data security with MongoDB; implemented encryption, authentication, and robust backup protocols.
 • Utilized AWS for scalable hosting and Docker for containerization, streamlining deployment.
 
