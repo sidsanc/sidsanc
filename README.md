@@ -51,6 +51,10 @@
   
   ### 🔭 Check out my recent projects:
 
+  <ins>[TechnoSapiens FitClub]()</ins> - • Designed a responsive platform using React.js (frontend) and Node.js with Express.js (backend), ensuring seamless handling of concurrent user requests.
+• Prioritized data security with MongoDB; implemented encryption, authentication, and robust backup protocols.
+• Utilized AWS for scalable hosting and Docker for containerization, streamlining deployment.
+
 🍽️ <ins>[Your Next Meal](https://github.com/sidsanc/yournextmeal)</ins> - A donor-receiver match platform developed using Django, ReactJS, and MongoDB 🍴. Achieved 95% uptime and 4% data loss through efficient deployment with Github 🐙 and Jenkins 🔧.
   
 
