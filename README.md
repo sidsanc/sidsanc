@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  [![Resume](https://img.shields.io/badge/Resume-View%20Resume-orange?style=flat)](https://drive.google.com/file/d/1MQdRbXmW5fbWy0bQxsgwIz4ilZkHdLlA/view?usp=drive_link)
+  [![Resume](https://img.shields.io/badge/Resume-View%20Resume-orange?style=flat)](https://github.com/sidsanc/sidsanc/blob/main/Resume/SiddhantSanchetiAIMLResume.pdf)
   [![Website](https://img.shields.io/badge/Website-View%20Website-blue?style=flat)](https://siddhantsancheti.netlify.app)
  
 </div>
