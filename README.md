@@ -42,12 +42,6 @@
  ### 📝 Latest Blog Posts
  
 <!-- HASHNODE_BLOG:START -->
-- [Revolutionizing Protein Science: The AlphaFold2 Breakthrough and Beyond](https://siddhantsancheti.hashnode.dev/revolutionizing-protein-science-the-alphafold2-breakthrough-and-beyond)
-- [Bridging the Gap Between AI and the Human Brain: A Deep Dive into 14-bit Molecular Memristors](https://siddhantsancheti.hashnode.dev/bridging-the-gap-between-ai-and-the-human-brain-a-deep-dive-into-14-bit-molecular-memristors)
-- [First Time at Stanford, Dive into AI: My TreeHacks Odyssey](https://siddhantsancheti.hashnode.dev/first-time-at-stanford-dive-into-ai-my-treehacks-odyssey)
-- [Rising Tides, Sinking Cities: A Data-Driven Dive into Predicting Sea Levels](https://siddhantsancheti.hashnode.dev/rising-tides-sinking-cities-a-data-driven-dive-into-predicting-sea-levels)
-- [NanoGPT Unveiled: A Comprehensive Study and Implementation](https://siddhantsancheti.hashnode.dev/nanogpt-unveiled-a-comprehensive-study-and-implementation)
-- [GENOME: The Dawn of Generative Neuro-Symbolic Reasoning in AI](https://siddhantsancheti.hashnode.dev/genome-the-dawn-of-generative-neuro-symbolic-reasoning-in-ai)
 
 <!-- HASHNODE_BLOG:END -->
  
