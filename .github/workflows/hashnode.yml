@@ -33,14 +33,4 @@ jobs:
           HASHNODE_PUBLICATION_NAME: 'siddhantsancheti.hashnode.dev'
           FORMAT: 'list'
         env:
-          GITHUB_TOKEN: ${{ secrets.HASHNODE_PAT }}
-      - name: 'Force Update README.md'
-        run: |
-          git pull origin main
-          sed -i '/<!-- HASHNODE_BLOG:START -->/,/<!-- HASHNODE_BLOG:END -->/c\<!-- HASHNODE_BLOG:START -->\n'"$(cat blogs.md)"'\n<!-- HASHNODE_BLOG:END -->' README.md
-
-          git add README.md
-          git commit -m "Force update latest blogs" || echo "No changes to commit"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.HASHNODE_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
