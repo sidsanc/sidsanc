@@ -1,19 +1,24 @@
-#  name: Latest blog post workflow
-#  on:
-#    schedule:
-#      # Runs every hour
-#      - cron: '0 * * * *'
-#    workflow_dispatch:
+name: "📚 latest Blog"
 
-#  jobs:
-#    update-readme-with-blog:
-#      name: Update this repos README with latest blog posts
-#      runs-on: ubuntu-latest
-#      steps:
-#        - uses: actions/checkout@v2
-#        - uses: gautamkrishnar/blog-post-workflow@master
-#          with:
-#            max_post_count: "4"
-#            feed_list: "https://medium.com/feed/@sidsanc4998"
-           
-           
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  "0 * * * *" # Runs every hour, on the hour
+
+jobs:
+  update_blogs:
+    name: "Update With Latest Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+        with:
+          USERNAME: "sidsanc" # Hashnode Username
+          COUNT: 6 # MAX Visisble
+          STYLE: "blog-left"
+          BLOG_URL: "https://siddhantsancheti.hashnode.dev/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
