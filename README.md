@@ -41,7 +41,6 @@
   
  ### 📝 Latest Blog Posts
  
- <!---![Siddhant's blog](https://github-read-medium.vercel.app/latest?username=sidsanc4998&limit=6&theme=nord) --->
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
  
