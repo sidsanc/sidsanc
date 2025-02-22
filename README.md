@@ -41,8 +41,8 @@
   
  ### 📝 Latest Blog Posts
  
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+<!-- HASHNODE_BLOGS:START -->
+<!-- HASHNODE_BLOGS:END -->
  
   </div>
   
