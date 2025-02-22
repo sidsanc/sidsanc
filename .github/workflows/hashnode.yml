@@ -16,7 +16,7 @@ jobs:
       - name: 'Hashnode Blog Action'
         uses: "Sachin-chaurasiya/hashnode-blog-action@v0.0.8"
         with:
-          HASHNODE_PUBLICATION_NAME: 'blog.siddhantsancheti.ai'
+          HASHNODE_PUBLICATION_NAME: 'siddhantsancheti.hashnode.dev'
           FORMAT: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.HASHNODE_PAT }}
