@@ -41,7 +41,7 @@
   
  ### 📝 Latest Blog Posts
  
- ![Siddhant's blog](https://github-read-medium.vercel.app/latest?username=sidsanc4998&limit=6&theme=nord)
+ <!---![Siddhant's blog](https://github-read-medium.vercel.app/latest?username=sidsanc4998&limit=6&theme=nord) --->
  <!-- BLOG-POST-LIST:START -->
  <!-- BLOG-POST-LIST:END -->
  
