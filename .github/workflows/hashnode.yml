@@ -31,6 +31,6 @@ jobs:
         uses: "Sachin-chaurasiya/hashnode-blog-action@v0.0.8"
         with:
           HASHNODE_PUBLICATION_NAME: 'siddhantsancheti.hashnode.dev'
-          FORMAT: 'stacked'
+          FORMAT: 'table'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
