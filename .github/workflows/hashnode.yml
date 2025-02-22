@@ -3,7 +3,10 @@ name: 'Hashnode Blogs'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs every hour, on the hour.
+    - cron: '0 0 * * *' # Runs daily at midnight.
+
+permissions:
+  contents: write  # Explicitly grant write permissions
 
 jobs:
   update_blogs:
@@ -12,6 +15,17 @@ jobs:
     steps:
       - name: 'Fetch Repository Contents'
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # Disable default GitHub Actions token
+
+      - name: 'Configure Git Authentication'
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git remote set-url origin https://x-access-token:${{ secrets.HASHNODE_PAT }}@github.com/sidsanc/sidsanc.git
+          git fetch origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.HASHNODE_PAT }}
 
       - name: 'Hashnode Blog Action'
         uses: "Sachin-chaurasiya/hashnode-blog-action@v0.0.8"
