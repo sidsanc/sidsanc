@@ -13,8 +13,6 @@
 
 <div align="center">
 
-  [![Resume](https://img.shields.io/badge/Resume-View%20Resume-orange?style=flat)](https://drive.google.com/file/d/1uijxHAQkpVvPN3DirjCyBOzVZBoZJHew/view?usp=drive_link)
-  [![Website](https://img.shields.io/badge/Website-View%20Website-blue?style=flat)](https://siddhantsancheti.netlify.app)
  
 </div>
 
