@@ -4,7 +4,7 @@
 
 <p>
   <strong>SDE @ Amazon Web Services</strong><br/>
-  Building distributed systems, AI-powered products, and full-stack experiences at scale.<br/>
+  Building distributed systems, AI-powered products and model development, and full-stack experiences at scale.<br/>
   MS Software Engineering @ SJSU · Open source builder · AI/ML enthusiast
 </p>
 
@@ -25,8 +25,8 @@
 
 - 🚀 **SDE at Amazon Web Services** — designing and shipping distributed, high-scale backend systems
 - 🤖 Deep interest in **AI/ML** — LLMs, RAG pipelines, computer vision, fine-tuning
-- 🌐 Full-stack builder — React, TypeScript, Node.js, Cloudflare edge
-- 🔬 Published ML research; built systems from protein structure prediction to autonomous driving
+- 🌐 Full-stack builder — React, TypeScript, JavaScript, Node.js
+- 🔬 Built systems by integrating orchestrated AI agents and model development.  
 - 📝 I write about AI and engineering on [Hashnode](https://hashnode.com/@sidsanc)
 - ⚡ Fun fact: I built [Jarvis](https://siddhantsancheti.com/chat) — an AI assistant that knows everything about me, powered by Llama 3.3 70B running on Cloudflare's edge
 
@@ -37,7 +37,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | **[Jarvis](https://siddhantsancheti.com/chat)** | AI assistant on my portfolio — streaming LLM chat, D1 persistent history, Spotify live context | `Cloudflare Workers` `Hono` `Llama 3.3 70B` `D1` |
-| **AWS** | Distributed systems at scale (can't say more 😄) | `Java` `AWS` `Distributed Systems` |
+| **AWS** | EC2 Core Platform | Distributed systems at scale (can't say more 😄) | `Java` `AWS` `Distributed Systems` |
 | **[Portfolio](https://siddhantsancheti.com)** | Personal site with neomorphism UI, dark/light mode, Cmd+K palette | `React` `Vite` `TypeScript` `Cloudflare Pages` |
 
 ---
