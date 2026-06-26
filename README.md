@@ -42,7 +42,7 @@ $ echo $MOTTO
 </td>
 <td valign="top" width="44%" align="center">
 
-<img src="https://media1.tenor.com/m/l0UKRSMPYG8AAAAC/naruto-rocket.gif" width="300" alt="Naruto rocket leap" />
+<img src="https://media1.tenor.com/m/l0UKRSMPYG8AAAAC/naruto-rocket.gif" width="360" alt="Naruto rocket leap" />
 
 <sub>ツ always shipping</sub>
 
@@ -188,13 +188,6 @@ Semantic search, auto-tagging, embedding-based retrieval for images.
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=4B9EFF&bar_color_cover=False" />
 </a>
-
-</td>
-<td valign="middle" width="40%" align="center">
-
-<img src="https://media1.tenor.com/m/l0UKRSMPYG8AAAAC/naruto-rocket.gif" width="200" alt="Naruto" />
-
-<sub>always in the zone ✨</sub>
 
 </td>
 </tr>
