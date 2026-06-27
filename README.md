@@ -42,9 +42,9 @@ $ echo $MOTTO
 </td>
 <td valign="top" width="44%" align="center">
 
-<img src="https://media1.tenor.com/m/CwT7OHL5dFEAAAAC/lain-sel.gif" width="420" alt="Serial Experiments Lain" />
+<img src="https://media1.tenor.com/m/l0UKRSMPYG8AAAAC/naruto-rocket.gif" width="420" alt="Naruto rocket leap" />
 
-<sub>present day, present time ツ</sub>
+<sub>ツ always shipping</sub>
 
 </td>
 </tr>
@@ -76,20 +76,20 @@ $ echo $MOTTO
 
 ## 🛠️ Tech Stack
 
+**LANGUAGES**
 <p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" /></p>
-<p align="center"><sub>Languages</sub></p>
 
+**AI / ML**
 <p align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /></p>
-<p align="center"><sub>AI / ML</sub></p>
 
+**FRONTEND**
 <p align="center"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&theme=dark" /></p>
-<p align="center"><sub>Frontend</sub></p>
 
+**BACKEND**
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,docker,postgres,mongodb&theme=dark" /></p>
-<p align="center"><sub>Backend</sub></p>
 
+**INFRASTRUCTURE**
 <p align="center"><img src="https://skillicons.dev/icons?i=aws,cloudflare,git,github,linux&theme=dark" /></p>
-<p align="center"><sub>Infrastructure</sub></p>
 
 ---
 
@@ -106,14 +106,10 @@ $ echo $MOTTO
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidsanc/sidsanc/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidsanc/sidsanc/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidsanc/sidsanc/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidsanc&bg_color=0D1117&color=4B9EFF&line=9B6EFF&point=FF6EE7&area=true&hide_border=false&border_color=30363d&radius=12" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -183,11 +179,13 @@ Semantic search, auto-tagging, embedding-based retrieval for images.
 
 <table>
 <tr>
-<td valign="middle" width="60%">
+<td valign="middle" width="55%">
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=4B9EFF&bar_color_cover=False" />
+<a href="https://open.spotify.com/user/315bfidfyj47fcwbfpibxxu2nkfm">
+  <img src="https://img.shields.io/badge/Spotify-sidsanc-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
+
+> Catch what I'm vibing to 🎧
 
 </td>
 <td valign="middle" width="45%" align="center">
