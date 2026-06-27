@@ -42,9 +42,9 @@ $ echo $MOTTO
 </td>
 <td valign="top" width="44%" align="center">
 
-<img src="https://media1.tenor.com/m/l0UKRSMPYG8AAAAC/naruto-rocket.gif" width="360" alt="Naruto rocket leap" />
+<img src="https://media1.tenor.com/m/CwT7OHL5dFEAAAAC/lain-sel.gif" width="420" alt="Serial Experiments Lain" />
 
-<sub>ツ always shipping</sub>
+<sub>present day, present time ツ</sub>
 
 </td>
 </tr>
@@ -96,12 +96,12 @@ $ echo $MOTTO
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidsanc&show_icons=true&theme=transparent&bg_color=0D1117&border_color=4B9EFF&title_color=4B9EFF&text_color=E8EAF0&icon_color=9B6EFF&border_radius=12" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsanc&layout=compact&theme=transparent&bg_color=0D1117&border_color=4B9EFF&title_color=4B9EFF&text_color=E8EAF0&border_radius=12&langs_count=6&hide=jupyter%20notebook,html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidsanc&show_icons=true&theme=transparent&bg_color=0D1117&border_color=4B9EFF&title_color=4B9EFF&text_color=E8EAF0&icon_color=9B6EFF&border_radius=12&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsanc&layout=compact&theme=transparent&bg_color=0D1117&border_color=9B6EFF&title_color=9B6EFF&text_color=E8EAF0&border_radius=12&langs_count=6&hide=jupyter%20notebook,html,css" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sidsanc&theme=transparent&background=0D1117&border=4B9EFF&stroke=4B9EFF&ring=9B6EFF&fire=9B6EFF&currStreakLabel=4B9EFF&sideLabels=E8EAF0&currStreakNum=E8EAF0&sideNums=E8EAF0&dates=E8EAF0&border_radius=12" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=sidsanc&theme=transparent&background=0D1117&border=4B9EFF&stroke=4B9EFF&ring=9B6EFF&fire=FF6EE7&currStreakLabel=4B9EFF&sideLabels=E8EAF0&currStreakNum=9B6EFF&sideNums=E8EAF0&dates=8b949e&border_radius=12" />
 </p>
 
 ---
@@ -188,6 +188,13 @@ Semantic search, auto-tagging, embedding-based retrieval for images.
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=315bfidfyj47fcwbfpibxxu2nkfm&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=4B9EFF&bar_color_cover=False" />
 </a>
+
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img src="https://media1.tenor.com/m/hdVSibmU4zYAAAAC/cowboy-bebop-ed.gif" width="240" alt="Cowboy Bebop Ed" />
+
+<sub>always in the zone 🎧</sub>
 
 </td>
 </tr>
