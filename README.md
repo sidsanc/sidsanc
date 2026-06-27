@@ -80,7 +80,15 @@ $ echo $MOTTO
 <p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" /></p>
 
 **AI / ML**
-<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic%20(Claude)-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-9B6EFF?style=flat-square&logo=buffer&logoColor=white" />
+</p>
 
 **FRONTEND**
 <p align="center"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&theme=dark" /></p>
@@ -89,7 +97,7 @@ $ echo $MOTTO
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,docker,postgres,mongodb&theme=dark" /></p>
 
 **INFRASTRUCTURE**
-<p align="center"><img src="https://skillicons.dev/icons?i=aws,cloudflare,git,github,linux&theme=dark" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,git,github,linux&theme=dark" /></p>
 
 ---
 
@@ -106,10 +114,14 @@ $ echo $MOTTO
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidsanc&bg_color=0D1117&color=4B9EFF&line=9B6EFF&point=FF6EE7&area=true&hide_border=false&border_color=30363d&radius=12" alt="Contribution Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidsanc/sidsanc/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidsanc/sidsanc/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidsanc/sidsanc/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
