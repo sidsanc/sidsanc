@@ -221,5 +221,5 @@ Semantic search, auto-tagging, embedding-based retrieval for images.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EE7,50:9B6EFF,100:4B9EFF&height=120&section=footer&text=Let's%20build%20something%20legendary&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EE7,50:9B6EFF,100:4B9EFF&height=120&section=footer&text=Let's%20build%20something%20great&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </p>
