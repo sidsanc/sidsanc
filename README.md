@@ -32,7 +32,7 @@ $ cat currently_building.txt
 $ cat fun_facts.txt
   → Built Jarvis on Llama 3.3 70B @ CF edge
   → Improved grant success 85% w/ AI agents
-  → TreeHacks @ Stanford alum
+  → TreeHacks @ Stanford
   → SJSU MS · MIT BE
 
 $ echo $MOTTO
