@@ -17,27 +17,7 @@
 <tr>
 <td valign="top" width="56%">
 
-### `siddhant@aws:~$`
-
-```bash
-$ whoami
-  Siddhant Sancheti
-  SDE @ Amazon Web Services
-
-$ cat currently_building.txt
-  → Jarvis: LLM agent w/ streaming + D1
-  → Multi-agent orchestration pipelines
-  → Something cool @ AWS (classified 🔒)
-
-$ cat fun_facts.txt
-  → Built Jarvis on Llama 3.3 70B @ CF edge
-  → Improved grant success 85% w/ AI agents
-  → TreeHacks @ Stanford
-  → SJSU MS · MIT BE
-
-$ echo $MOTTO
-  "Ship fast, learn faster." ▌
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=4B9EFF&background=161B22&center=false&vCenter=false&multiline=true&repeat=false&width=480&height=220&lines=siddhant%40aws%3A~%24+whoami;++++Siddhant+Sancheti+%7C+SDE+%40+AWS;+;siddhant%40aws%3A~%24+cat+currently_building.txt;++++->+Jarvis%3A+LLM+agent+w%2F+streaming+%2B+D1;++++->+Multi-agent+orchestration+pipelines;++++->+Something+cool+%40+AWS+(classified);+;siddhant%40aws%3A~%24+echo+%24MOTTO;++++"Ship+fast%2C+learn+faster."+%E2%96%8C" alt="Terminal" />
 
 </td>
 <td valign="top" width="44%" align="center">
@@ -77,27 +57,74 @@ $ echo $MOTTO
 ## 🛠️ Tech Stack
 
 **LANGUAGES**
-<p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" /></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="40" alt="Ruby" />
+</p>
 
 **AI / ML**
-<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /></p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20(Claude)-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-9B6EFF?style=flat-square&logo=buffer&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://cdn.simpleicons.org/langchain/7FC8FF" height="40" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/openai/74aa9c" height="40" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/anthropic/CC785C" height="40" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="HuggingFace" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Vertex AI" />
+  <img src="https://cdn.simpleicons.org/meta/1877F2" height="40" alt="FAISS / RAG" />
 </p>
 
 **FRONTEND**
-<p align="center"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&theme=dark" /></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="40" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+</p>
 
 **BACKEND**
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,docker,postgres,mongodb&theme=dark" /></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark" />
+  <img src="https://cdn.simpleicons.org/apachekafka/ffffff" height="40" alt="Kafka" />
+</p>
 
-**INFRASTRUCTURE**
-<p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,git,github,linux&theme=dark" /></p>
+**DATABASES**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" height="40" alt="DynamoDB" />
+</p>
+
+**CLOUD & INFRASTRUCTURE**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40" alt="Linux" />
+</p>
 
 ---
 
@@ -221,5 +248,5 @@ Semantic search, auto-tagging, embedding-based retrieval for images.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EE7,50:9B6EFF,100:4B9EFF&height=120&section=footer&text=Let's%20build%20something%20great&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EE7,50:9B6EFF,100:4B9EFF&height=120&section=footer&text=Let's%20build%20something%20legendary&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </p>
